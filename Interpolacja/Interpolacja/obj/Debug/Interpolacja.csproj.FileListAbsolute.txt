@@ -1,0 +1,6 @@
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\bin\Debug\Interpolacja.exe.config
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\bin\Debug\Interpolacja.exe
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\bin\Debug\Interpolacja.pdb
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\obj\Debug\Interpolacja.csprojResolveAssemblyReference.cache
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\obj\Debug\Interpolacja.exe
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\Interpolacja\obj\Debug\Interpolacja.pdb

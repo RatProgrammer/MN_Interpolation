@@ -1,0 +1,9 @@
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\IntepolacjaLagrangea.Tests.dll
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\IntepolacjaLagrangea.Tests.pdb
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\Interpolacja.exe
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\Interpolacja.pdb
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\obj\Debug\IntepolacjaLagrangea.Tests.csprojResolveAssemblyReference.cache
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\obj\Debug\IntepolacjaLagrangea.Tests.dll
+c:\users\aleksanra\documents\visual studio 2015\Projects\Interpolacja\IntepolacjaLagrangea.Tests\obj\Debug\IntepolacjaLagrangea.Tests.pdb
