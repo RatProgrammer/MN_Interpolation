@@ -10,11 +10,8 @@ namespace Interpolacja
     {
         static void Main(string[] args)
         {
-            LagrangeInterpolacja lagrangeInterpolacja=new LagrangeInterpolacja();
-
-           double wynik= lagrangeInterpolacja.Lagrangea(1);
-            Console.WriteLine(wynik);
-            Console.ReadKey();
+            NewtonInterpolacja newtonInterpolacja = new NewtonInterpolacja();
+            newtonInterpolacja.Newton(0, 3, 1, 1);
         }
     }
 }
